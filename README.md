@@ -1,1 +1,1 @@
-# .github
+# An Inclusive Community at NITJ
